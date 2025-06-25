@@ -15,7 +15,7 @@ LeetMetric is a stylish, responsive frontend application that allows users to **
 
 [Live Demo Link](#) *(Coming soon or insert your live link)*
 
-![LeetMetric Screenshot](assets/leetmetric-preview.png) *(optional)*
+![LeetMetric Screenshot](assets/leetmetric-preview.png)
 
 ## 🔧 Tech Stack
 
