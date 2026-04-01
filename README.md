@@ -1,4 +1,4 @@
-# LeetMetrices-Project
+# LeetMetrices-Project 
 # 📊 LeetMetric – LeetCode Stats Visualizer
 
 LeetMetric is a stylish, responsive frontend application that allows users to **search their LeetCode username** and **instantly view progress stats** in an interactive, graphical format.
